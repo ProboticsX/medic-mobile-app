@@ -10,3 +10,5 @@ MediC app can also be used for delivery of medicines. These “MedHelpers” wil
 
  The user can also check the availability and compare the prices of the required medicine in the nearby medical stores if the user wants to buy the medicine on his/her own by using Medic app.
 MediC app will also allow the different medical stores to have their own ONLINE DATABASE for details (like availability, prices, stock etc) of  different medicines in their shops using Enterprise Resource Planning (ERP).
+
+Youtube: https://www.youtube.com/watch?v=83V88vSsA8c
