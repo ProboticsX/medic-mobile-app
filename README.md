@@ -1,7 +1,5 @@
 # medic-mobile-app
 
-*the contents of this project are confidential*
-
 We are aiming to develop a mobile application that will be focusing on reducing the above mentioned problems.
 We are introducing the concept of “MedHelpers” who will be the trained professionals having knowledge of giving proper FIRST AID. 
 The “MedHelpers” hired by us will be certified to provide FIRST AID skills. Also, normal citizens can volunteer as  the “CitizenMedHelpers” and can earn some extra money whenever they feel like. 
